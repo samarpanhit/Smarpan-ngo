@@ -54,7 +54,7 @@ export default function Contact() {
 
   const contactInfo = [
     { icon: Mail, title: 'Email', value: 'hithaldia.samarpan@gmail.com', action: 'mailto:hithaldia.samarpan@gmail.com' },
-    { icon: Phone, title: 'Phone', value: '+91-6297604029', action: 'tel:+916297604029' },
+    { icon: Phone, title: 'Phone', value: '+91-7667800204', action: 'tel:+917667800204' },
     { icon: MapPin, title: 'Address', value: 'Haldia, West Bengal, India', action: '#' },
   ]
 

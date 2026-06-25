@@ -13,10 +13,10 @@ const Footer = () => {
   }
 
   const teamMembers = [
-    { name: 'Soumyadeep Taladhi', phone: '+91-6297604029' },
-    { name: 'Rahul Gope', phone: '+91-9973669992' },
-    { name: 'Kumar Abhishek', phone: '+91-7462875501' },
-    { name: 'Harsh Kumar', phone: '+91-7856060388' }
+    { name: 'Rohan Sharma', phone: '+91-7667800204' },
+    { name: 'Abhijoy Ghosh', phone: '+91-7479389655' },
+    { name: 'Dipsubhra Bhunia', phone: '+91-7679262852' },
+    { name: 'Ankush Kumar Singh', phone: '+91-6202143127' }
   ]
 
   const stats = [
