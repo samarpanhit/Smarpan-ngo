@@ -6,12 +6,14 @@ export default function AdminLogin() {
   const [error, setError] = useState('');
   const navigate = useNavigate();
 
+  const ADMIN_PASSWORD = import.meta.env.VITE_ADMIN_PASSWORD;
+
   const handleLogin = (e) => {
     e.preventDefault();
     setError('');
 
     // HARDCODED PASSWORD
-    if (password === 'Sushanta_IT') {
+    if (password === ADMIN_PASSWORD) {
       localStorage.setItem('samarpan_admin', 'true');
       navigate('/admin');
     } else {
