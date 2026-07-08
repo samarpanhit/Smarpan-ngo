@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/supaproxy/:match*",
-      "destination": "https://zbctdrpknkkrjlteitta.supabase.co/:match*"
+      "destination": "https://epsayeopxlzmcaqrdlrg.supabase.co/:match*"
     },
     {
       "source": "/sitemap.xml",
